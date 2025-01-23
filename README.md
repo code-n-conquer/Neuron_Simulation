@@ -25,4 +25,4 @@ reaches Vh, the positive-feedback sequence is initiated once again. A small decr
 
 1. **Clone the Repository**: Clone the project repository to your local machine using the command:
    ```bash
-   git clone https://github.com/code-n-conquer/Neuron-Simulation-Project.git
+   git clone https://github.com/code-n-conquer/Neuron_Simulation.git
